@@ -164,11 +164,6 @@ Hi, I'm **Naran Khadka** — a passionate learner diving deep into the world of 
 
 ---
 
-## 📄 License
-
-This repository is open-source under the [MIT License](LICENSE).
-
----
 
 <p align="center">
   ⭐ If you find this helpful, consider giving it a star! ⭐
