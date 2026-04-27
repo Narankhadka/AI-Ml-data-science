@@ -4,6 +4,7 @@
 # virtual environment
 venv_new
 env/
+venv_ds
 
 # Python cache
 __pycache__/
